@@ -15,7 +15,7 @@ edition = "2021"
 tokio = { version = "1", features = ["full"] }
 
 # Cryptography Algorithms
-rand = "0.8"
+rand = "0.9"
 ring = "0.17"
 sha2 = "0.10"
 scrypt = "0.11"
